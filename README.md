@@ -1,4 +1,4 @@
-# ERPNext Training
+# ERPNext Training (ครั้งที่ 2)
 
 ## General Information
 
