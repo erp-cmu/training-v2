@@ -22,8 +22,10 @@
 
 6. [Point of Sale](https://scribehow.com/page/V2_ERPNext_Training_6_Point_of_Sale__ZqF2M4HUQfyr703o7PGIMA?referrer=documents)
 
-7. [Inventory](https://scribehow.com/page/ERPNext_Training_5_Inventory__x081qrrET8GZHF8E9FS5bw?referrer=documents)
+7. [Inventory](https://scribehow.com/page/V2_ERPNext_Training_7_Inventory__G2E04RJ_QtuscX_1rlPBoQ?referrer=documents)
 
-8. [Manufacturing](https://scribehow.com/page/ERPNext_Training_7_Manufacturing__Cu1eXv50S6qjfts0VL3xUw?referrer=documents)
+8. [Manufacturing](https://scribehow.com/page/V2_ERPNext_Training_8_Manufacturing__8jiD9i9gQGKS8vYty3nW8Q?referrer=documents)
 
-9. [HR](https://scribehow.com/page/ERPNext_Training_8_HR__bl81JzszRMuIoJOaCSBEDQ)
+9. [HR](https://scribehow.com/page/V2_ERPNext_Training_9_HR__Otwji3-WT-eVn516OsMVRA?referrer=documents)
+
+10. [Project Management](https://link.excalidraw.com/l/9PltHIQHZMD/692RsBDsX3m)
